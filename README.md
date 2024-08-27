@@ -1,6 +1,4 @@
-# Hpyerbolg
-
-Este es el README.me
+# Hyperblog
 
 > Nunca pares de aprender
 _Freddy Vega_
